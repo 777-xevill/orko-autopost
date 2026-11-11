@@ -1,7 +1,28 @@
 {
   "heartbeat": "2026-11-11T07:37:16+00:00",
-  "last_tick": null,
+  "last_tick": "2026-11-11T07:44:32+00:00",
   "platform_last": {},
-  "posts": {},
+  "posts": {
+    "2026-11-11-01-train-like-a-beast": {
+      "runs": [
+        {
+          "created": "2026-11-11T07:44:32+00:00",
+          "due": "2026-11-11T07:50:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-12-01-beast-mode": {
+      "runs": [
+        {
+          "created": "2026-11-11T07:44:32+00:00",
+          "due": "2026-11-12T14:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    }
+  },
   "version": 1
 }
