@@ -50,7 +50,7 @@ platforms:
     max_hashtags: 1
   youtube:
     enabled: true
-    via: direct            # switch to `buffer` while your Google API audit is pending
+    via: buffer            # Buffer's audited YouTube app, so uploads stay public (no Google Cloud / 2SV needed)
     privacy: public        # public | unlisted | private
     category_id: "17"      # 17 = Sports (fitness), 22 = People & Blogs, 10 = Music
     max_hashtags: 5
