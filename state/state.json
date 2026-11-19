@@ -1,6 +1,6 @@
 {
   "heartbeat": "2026-11-16T14:37:32+00:00",
-  "last_tick": "2026-11-19T06:37:42+00:00",
+  "last_tick": "2026-11-19T06:42:49+00:00",
   "platform_last": {
     "tiktok": "2026-11-12T14:02:32+00:00",
     "youtube": "2026-11-12T14:02:32+00:00"
@@ -51,6 +51,76 @@
               "url": "https://publish.buffer.com/"
             }
           }
+        }
+      ]
+    },
+    "2026-11-20-01-sweat-is-the-signature": {
+      "runs": [
+        {
+          "created": "2026-11-19T06:42:49+00:00",
+          "due": "2026-11-20T14:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-21-02-every-scar-a-chapter": {
+      "runs": [
+        {
+          "created": "2026-11-19T06:42:49+00:00",
+          "due": "2026-11-21T14:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-22-03-chase-the-burn": {
+      "runs": [
+        {
+          "created": "2026-11-19T06:42:49+00:00",
+          "due": "2026-11-22T14:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-23-04-train-without-witnesses-cinematic": {
+      "runs": [
+        {
+          "created": "2026-11-19T06:42:49+00:00",
+          "due": "2026-11-23T14:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-24-05-raw-built-in-the-dark": {
+      "runs": [
+        {
+          "created": "2026-11-19T06:42:49+00:00",
+          "due": "2026-11-24T14:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-25-06-raw-poker-face": {
+      "runs": [
+        {
+          "created": "2026-11-19T06:42:49+00:00",
+          "due": "2026-11-25T14:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-26-07-raw-we-are-mortal": {
+      "runs": [
+        {
+          "created": "2026-11-19T06:42:49+00:00",
+          "due": "2026-11-26T14:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
         }
       ]
     }
