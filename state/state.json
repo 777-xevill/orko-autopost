@@ -1,9 +1,9 @@
 {
   "heartbeat": "2026-11-16T14:37:32+00:00",
-  "last_tick": "2026-11-24T12:37:41+00:00",
+  "last_tick": "2026-11-24T18:50:26+00:00",
   "platform_last": {
-    "tiktok": "2026-11-23T14:00:07+00:00",
-    "youtube": "2026-11-23T14:00:07+00:00"
+    "tiktok": "2026-11-24T18:50:26+00:00",
+    "youtube": "2026-11-24T18:50:26+00:00"
   },
   "posts": {
     "2026-11-11-01-train-like-a-beast": {
@@ -174,9 +174,28 @@
       "runs": [
         {
           "created": "2026-11-19T06:42:49+00:00",
+          "done": true,
           "due": "2026-11-24T14:00:00+00:00",
           "kind": "scheduled",
-          "platforms": {}
+          "platforms": {
+            "facebook": {
+              "at": "2026-11-24T18:50:26+00:00",
+              "reason": "not connected yet (missing FACEBOOK_PAGE_ID, FACEBOOK_PAGE_TOKEN)",
+              "status": "skipped"
+            },
+            "tiktok": {
+              "at": "2026-11-24T18:50:26+00:00",
+              "id": "6b05dc7704f9f3a5e60764d6",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "youtube": {
+              "at": "2026-11-24T18:50:26+00:00",
+              "id": "6b05dc7404f9f3a5e60762aa",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            }
+          }
         }
       ]
     },
